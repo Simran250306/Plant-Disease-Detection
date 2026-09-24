@@ -1,0 +1,1094 @@
+{
+  "Apple___Apple_scab": {
+    "disease": "Apple Scab",
+    "crop": "Apple",
+    "cause": "Fungal disease caused primarily by Venturia inaequalis.",
+    "symptoms": [
+      "Olive-green to brown velvety spots on leaves or fruit",
+      "Severe infections can cause leaf drop",
+      "Fruit may develop scabby, corky lesions"
+    ],
+    "favorable_conditions": [
+      "Cool to mild temperatures",
+      "Frequent rainfall or prolonged leaf wetness",
+      "Dense foliage with poor air circulation"
+    ],
+    "precautions": [
+      "Remove fallen infected leaves where practical",
+      "Maintain good canopy airflow",
+      "Avoid prolonged leaf wetness from irrigation"
+    ],
+    "management": [
+      "Use sanitation and pruning to reduce disease pressure",
+      "Monitor weather and disease development",
+      "Use locally recommended fungicides according to the product label when necessary"
+    ],
+    "prevention": [
+      "Remove or manage fallen leaves",
+      "Maintain an open canopy",
+      "Use an integrated apple-scab management program"
+    ]
+  },
+  "Apple___Black_rot": {
+    "disease": "Apple Black Rot",
+    "crop": "Apple",
+    "cause": "Fungal disease commonly associated with Botryosphaeria obtusa.",
+    "symptoms": [
+      "Brown or purple leaf spots that enlarge",
+      "Fruit develops expanding brown rot lesions",
+      "Mummified fruit and dead wood may remain on the tree"
+    ],
+    "favorable_conditions": [
+      "Warm, humid weather",
+      "Wet plant surfaces",
+      "Dead or wounded plant tissue"
+    ],
+    "precautions": [
+      "Remove mummified fruit and dead wood",
+      "Prune out diseased branches during suitable dry conditions",
+      "Avoid unnecessary injuries to trees"
+    ],
+    "management": [
+      "Remove infected fruit and wood",
+      "Maintain orchard sanitation",
+      "Use locally recommended fungicide programs where appropriate"
+    ],
+    "prevention": [
+      "Remove dead plant material",
+      "Maintain tree vigor and balanced nutrition",
+      "Monitor fruit and branches regularly"
+    ]
+  },
+  "Apple___Cedar_apple_rust": {
+    "disease": "Cedar Apple Rust",
+    "crop": "Apple",
+    "cause": "Fungal disease caused by Gymnosporangium species; the disease requires compatible juniper/cedar hosts for its life cycle.",
+    "symptoms": [
+      "Yellow-orange spots on apple leaves",
+      "Orange or reddish structures may develop on the underside of leaves",
+      "Fruit can develop distorted or affected areas"
+    ],
+    "favorable_conditions": [
+      "Wet spring weather",
+      "Suitable temperatures for spore germination",
+      "Presence of compatible cedar/juniper hosts nearby"
+    ],
+    "precautions": [
+      "Monitor new foliage during wet spring periods",
+      "Improve air circulation",
+      "Where practical, avoid planting highly susceptible cultivars near heavily infected alternate hosts"
+    ],
+    "management": [
+      "Remove severely affected plant parts where practical",
+      "Manage nearby alternate hosts when feasible and permitted",
+      "Use locally recommended fungicides when warranted"
+    ],
+    "prevention": [
+      "Choose resistant or less-susceptible cultivars where available",
+      "Maintain orchard sanitation",
+      "Follow local disease forecasting and management recommendations"
+    ]
+  },
+  "Apple___healthy": {
+    "disease": "Healthy Apple Leaf",
+    "crop": "Apple",
+    "cause": "No disease detected in the PlantVillage healthy class.",
+    "symptoms": [
+      "Leaf appears generally healthy without characteristic disease lesions"
+    ],
+    "favorable_conditions": [
+      "Adequate light, water and nutrition",
+      "Good airflow and plant hygiene"
+    ],
+    "precautions": [
+      "Continue routine scouting",
+      "Avoid unnecessary irrigation that keeps foliage wet",
+      "Maintain balanced nutrition"
+    ],
+    "management": [
+      "No disease treatment is indicated from this classification alone",
+      "Continue normal crop care and monitoring"
+    ],
+    "prevention": [
+      "Use healthy planting material",
+      "Maintain orchard sanitation",
+      "Monitor regularly for new symptoms"
+    ]
+  },
+  "Blueberry___healthy": {
+    "disease": "Healthy Blueberry Leaf",
+    "crop": "Blueberry",
+    "cause": "No disease detected in the PlantVillage healthy class.",
+    "symptoms": [
+      "No characteristic disease symptoms detected"
+    ],
+    "favorable_conditions": [
+      "Adequate moisture and nutrition",
+      "Good airflow and suitable growing conditions"
+    ],
+    "precautions": [
+      "Scout leaves regularly",
+      "Avoid prolonged leaf wetness",
+      "Maintain appropriate irrigation and nutrition"
+    ],
+    "management": [
+      "No disease treatment is indicated from this classification alone",
+      "Continue routine crop management"
+    ],
+    "prevention": [
+      "Use healthy planting material",
+      "Remove diseased plant material when observed",
+      "Maintain good field sanitation"
+    ]
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "disease": "Cherry Powdery Mildew",
+    "crop": "Cherry",
+    "cause": "Powdery mildew caused by Podosphaera species, including Podosphaera clandestina.",
+    "symptoms": [
+      "White powdery fungal growth on leaves or shoots",
+      "Affected leaves may curl or become distorted",
+      "Young fruit can be affected during severe infections"
+    ],
+    "favorable_conditions": [
+      "Warm conditions",
+      "High humidity without prolonged leaf wetness",
+      "Dense canopy growth"
+    ],
+    "precautions": [
+      "Maintain canopy airflow",
+      "Avoid excessive nitrogen that promotes very soft growth",
+      "Scout young foliage regularly"
+    ],
+    "management": [
+      "Remove severely affected material where practical",
+      "Improve canopy ventilation",
+      "Use locally recommended fungicides when needed and follow labels"
+    ],
+    "prevention": [
+      "Choose less-susceptible cultivars where available",
+      "Maintain balanced nutrition",
+      "Prune to improve airflow"
+    ]
+  },
+  "Cherry_(including_sour)___healthy": {
+    "disease": "Healthy Cherry Leaf",
+    "crop": "Cherry",
+    "cause": "No disease detected in the PlantVillage healthy class.",
+    "symptoms": [
+      "No characteristic disease symptoms detected"
+    ],
+    "favorable_conditions": [
+      "Adequate light, moisture and nutrition",
+      "Good canopy airflow"
+    ],
+    "precautions": [
+      "Scout regularly for leaf spots and mildew",
+      "Avoid unnecessary leaf wetness",
+      "Maintain orchard sanitation"
+    ],
+    "management": [
+      "No disease treatment is indicated from this classification alone",
+      "Continue normal orchard care"
+    ],
+    "prevention": [
+      "Use healthy planting material",
+      "Maintain canopy airflow",
+      "Remove diseased material promptly when detected"
+    ]
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "disease": "Corn Cercospora Leaf Spot / Gray Leaf Spot",
+    "crop": "Corn (Maize)",
+    "cause": "Fungal disease caused mainly by Cercospora zeae-maydis and related Cercospora species.",
+    "symptoms": [
+      "Long, narrow gray to tan lesions on leaves",
+      "Lesions can merge and reduce green leaf area",
+      "Lower leaves are often affected first"
+    ],
+    "favorable_conditions": [
+      "Warm and humid weather",
+      "Extended periods of leaf wetness",
+      "Crop residue containing the pathogen"
+    ],
+    "precautions": [
+      "Scout lower leaves regularly",
+      "Manage crop residue where practical",
+      "Avoid excessive canopy humidity through appropriate agronomy"
+    ],
+    "management": [
+      "Use resistant or tolerant hybrids where available",
+      "Use crop rotation and residue management",
+      "Use locally recommended fungicides when economically and agronomically justified"
+    ],
+    "prevention": [
+      "Rotate crops where suitable",
+      "Use resistant hybrids",
+      "Manage infected residue and volunteer corn"
+    ]
+  },
+  "Corn_(maize)___Common_rust_": {
+    "disease": "Corn Common Rust",
+    "crop": "Corn (Maize)",
+    "cause": "Fungal disease caused by Puccinia sorghi.",
+    "symptoms": [
+      "Small reddish-brown rust pustules on leaves",
+      "Pustules can release rust-colored spores",
+      "Severe infection can reduce photosynthetic leaf area"
+    ],
+    "favorable_conditions": [
+      "Cool to moderate temperatures",
+      "High humidity or frequent dew",
+      "Extended periods favorable for spore infection"
+    ],
+    "precautions": [
+      "Scout leaves regularly",
+      "Avoid unnecessary prolonged leaf wetness",
+      "Use tolerant hybrids where available"
+    ],
+    "management": [
+      "Plant resistant or tolerant hybrids",
+      "Monitor disease development",
+      "Use fungicides only when locally recommended and economically justified"
+    ],
+    "prevention": [
+      "Use resistant hybrids",
+      "Maintain crop rotation and field hygiene",
+      "Monitor susceptible crops during favorable weather"
+    ]
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "disease": "Corn Northern Leaf Blight",
+    "crop": "Corn (Maize)",
+    "cause": "Fungal disease caused by Exserohilum turcicum.",
+    "symptoms": [
+      "Long cigar-shaped gray-green to tan lesions",
+      "Lesions expand along leaf tissue",
+      "Severe disease can cause premature loss of green leaf area"
+    ],
+    "favorable_conditions": [
+      "Cool to moderate temperatures",
+      "High humidity",
+      "Frequent rainfall or prolonged leaf wetness"
+    ],
+    "precautions": [
+      "Scout lower leaves and crop canopy",
+      "Avoid practices that unnecessarily prolong leaf wetness",
+      "Use resistant hybrids"
+    ],
+    "management": [
+      "Use resistant or tolerant hybrids",
+      "Rotate crops and manage infected residue where appropriate",
+      "Use locally recommended fungicides when necessary"
+    ],
+    "prevention": [
+      "Choose resistant hybrids",
+      "Practice suitable crop rotation",
+      "Manage crop residue and volunteer plants"
+    ]
+  },
+  "Corn_(maize)___healthy": {
+    "disease": "Healthy Corn Leaf",
+    "crop": "Corn (Maize)",
+    "cause": "No disease detected in the PlantVillage healthy class.",
+    "symptoms": [
+      "No characteristic disease symptoms detected"
+    ],
+    "favorable_conditions": [
+      "Adequate moisture, nutrition and sunlight",
+      "Good crop establishment"
+    ],
+    "precautions": [
+      "Scout regularly for foliar diseases",
+      "Maintain balanced fertilization",
+      "Manage irrigation appropriately"
+    ],
+    "management": [
+      "No disease treatment is indicated from this classification alone",
+      "Continue normal crop management"
+    ],
+    "prevention": [
+      "Use quality seed and suitable hybrids",
+      "Practice crop rotation where appropriate",
+      "Monitor the crop throughout the season"
+    ]
+  },
+  "Grape___Black_rot": {
+    "disease": "Grape Black Rot",
+    "crop": "Grape",
+    "cause": "Fungal disease caused by Guignardia bidwellii.",
+    "symptoms": [
+      "Small tan to brown leaf spots with dark margins",
+      "Fruit develops brown lesions that become black and shrivel into mummies",
+      "Disease can spread rapidly under wet conditions"
+    ],
+    "favorable_conditions": [
+      "Warm and wet weather",
+      "Frequent rainfall",
+      "Infected mummified fruit and plant debris"
+    ],
+    "precautions": [
+      "Remove mummified fruit",
+      "Prune to improve air circulation",
+      "Avoid prolonged foliage wetness"
+    ],
+    "management": [
+      "Remove infected mummies and affected material",
+      "Maintain vineyard sanitation",
+      "Use locally recommended fungicides according to label directions"
+    ],
+    "prevention": [
+      "Remove mummified fruit before the season",
+      "Maintain an open canopy",
+      "Use an integrated vineyard disease-management program"
+    ]
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "disease": "Grape Esca (Black Measles)",
+    "crop": "Grape",
+    "cause": "A complex of trunk diseases associated with several wood-inhabiting fungi.",
+    "symptoms": [
+      "Interveinal leaf discoloration or tiger-stripe patterns",
+      "Dark spots may occur on berries",
+      "Chronic infections can cause dieback or vine decline"
+    ],
+    "favorable_conditions": [
+      "Wounds that allow wood pathogens to enter",
+      "Stressed or aging vines",
+      "Spread associated with infected pruning material and vineyard conditions"
+    ],
+    "precautions": [
+      "Minimize large pruning wounds",
+      "Disinfect and maintain pruning equipment hygiene",
+      "Remove severely diseased wood where appropriate"
+    ],
+    "management": [
+      "Identify and remove affected wood when feasible",
+      "Manage pruning wounds carefully",
+      "Seek local extension advice for trunk-disease management because treatment options depend on the situation"
+    ],
+    "prevention": [
+      "Use healthy planting material",
+      "Use careful pruning practices",
+      "Remove severely affected vines when recommended"
+    ]
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "disease": "Grape Leaf Blight / Isariopsis Leaf Spot",
+    "crop": "Grape",
+    "cause": "Fungal leaf-spot disease associated with Pseudocercospora vitis.",
+    "symptoms": [
+      "Brown to reddish leaf spots",
+      "Spots can enlarge and cause leaf tissue to die",
+      "Severe infection may lead to premature defoliation"
+    ],
+    "favorable_conditions": [
+      "Warm and humid conditions",
+      "Frequent rainfall or prolonged leaf wetness",
+      "Dense vineyard canopy"
+    ],
+    "precautions": [
+      "Improve canopy ventilation",
+      "Remove heavily infected fallen material",
+      "Avoid prolonged foliage wetness"
+    ],
+    "management": [
+      "Prune and manage canopy density",
+      "Remove infected material where practical",
+      "Use locally recommended fungicides if needed"
+    ],
+    "prevention": [
+      "Maintain vineyard sanitation",
+      "Use good canopy management",
+      "Monitor during wet periods"
+    ]
+  },
+  "Grape___healthy": {
+    "disease": "Healthy Grape Leaf",
+    "crop": "Grape",
+    "cause": "No disease detected in the PlantVillage healthy class.",
+    "symptoms": [
+      "No characteristic disease symptoms detected"
+    ],
+    "favorable_conditions": [
+      "Adequate light, water and nutrition",
+      "Good vineyard airflow"
+    ],
+    "precautions": [
+      "Scout leaves and fruit regularly",
+      "Maintain canopy ventilation",
+      "Avoid excessive irrigation"
+    ],
+    "management": [
+      "No disease treatment is indicated from this classification alone",
+      "Continue routine vineyard management"
+    ],
+    "prevention": [
+      "Use healthy planting material",
+      "Maintain canopy management",
+      "Remove diseased material when observed"
+    ]
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "disease": "Citrus Huanglongbing (Citrus Greening)",
+    "crop": "Orange / Citrus",
+    "cause": "A systemic bacterial disease associated with Candidatus Liberibacter species and spread primarily by citrus psyllids and infected propagation material.",
+    "symptoms": [
+      "Blotchy or asymmetric leaf yellowing",
+      "Leaf veins may remain greener than surrounding tissue",
+      "Poor fruit development, uneven fruit coloring and reduced fruit quality"
+    ],
+    "favorable_conditions": [
+      "Presence of infected trees or propagation material",
+      "Presence of citrus psyllid vectors",
+      "Warm citrus-growing conditions can support vector activity"
+    ],
+    "precautions": [
+      "Use certified disease-free planting material",
+      "Scout for symptoms and psyllids",
+      "Do not move potentially infected propagation material"
+    ],
+    "management": [
+      "There is no curative treatment that reliably eliminates HLB from an infected tree",
+      "Remove infected trees where recommended by local authorities or extension services",
+      "Manage psyllid populations using locally approved integrated pest-management practices"
+    ],
+    "prevention": [
+      "Use certified clean nursery stock",
+      "Monitor and manage psyllid vectors",
+      "Follow regional citrus-greening quarantine and sanitation requirements"
+    ]
+  },
+  "Peach___Bacterial_spot": {
+    "disease": "Peach Bacterial Spot",
+    "crop": "Peach",
+    "cause": "Bacterial disease caused by Xanthomonas species, commonly Xanthomonas arboricola pv. pruni.",
+    "symptoms": [
+      "Small water-soaked or dark leaf spots",
+      "Leaf spots may develop holes as tissue dies",
+      "Fruit may develop sunken dark lesions"
+    ],
+    "favorable_conditions": [
+      "Warm, wet weather",
+      "Frequent rain and leaf wetness",
+      "Wind-driven rain can spread bacteria"
+    ],
+    "precautions": [
+      "Use healthy planting material",
+      "Improve airflow through pruning",
+      "Avoid unnecessary overhead irrigation"
+    ],
+    "management": [
+      "Remove severely affected material where practical",
+      "Maintain orchard sanitation",
+      "Use locally recommended bactericidal/fungicide programs where applicable and follow labels"
+    ],
+    "prevention": [
+      "Choose less-susceptible cultivars where available",
+      "Maintain good canopy ventilation",
+      "Avoid moving infected plant material"
+    ]
+  },
+  "Peach___healthy": {
+    "disease": "Healthy Peach Leaf",
+    "crop": "Peach",
+    "cause": "No disease detected in the PlantVillage healthy class.",
+    "symptoms": [
+      "No characteristic disease symptoms detected"
+    ],
+    "favorable_conditions": [
+      "Adequate light, moisture and nutrition",
+      "Good orchard airflow"
+    ],
+    "precautions": [
+      "Scout foliage and fruit regularly",
+      "Maintain canopy ventilation",
+      "Avoid excessive irrigation"
+    ],
+    "management": [
+      "No disease treatment is indicated from this classification alone",
+      "Continue routine orchard care"
+    ],
+    "prevention": [
+      "Use healthy nursery stock",
+      "Maintain orchard sanitation",
+      "Monitor for bacterial and fungal symptoms"
+    ]
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "disease": "Bell Pepper Bacterial Spot",
+    "crop": "Bell Pepper",
+    "cause": "Bacterial disease caused by Xanthomonas species.",
+    "symptoms": [
+      "Small water-soaked or dark leaf spots",
+      "Leaf spots may enlarge and cause defoliation",
+      "Fruit may develop raised or scabby lesions"
+    ],
+    "favorable_conditions": [
+      "Warm and humid weather",
+      "Frequent rain or overhead irrigation",
+      "Infected seed or transplants can introduce the pathogen"
+    ],
+    "precautions": [
+      "Use disease-free seed and transplants",
+      "Avoid overhead irrigation where possible",
+      "Sanitize tools and remove infected plant debris"
+    ],
+    "management": [
+      "Remove severely affected plants or leaves where practical",
+      "Maintain field sanitation",
+      "Use locally recommended bactericide programs according to label directions"
+    ],
+    "prevention": [
+      "Use certified clean seed/transplants",
+      "Rotate crops where suitable",
+      "Avoid working plants when foliage is wet"
+    ]
+  },
+  "Pepper,_bell___healthy": {
+    "disease": "Healthy Bell Pepper Leaf",
+    "crop": "Bell Pepper",
+    "cause": "No disease detected in the PlantVillage healthy class.",
+    "symptoms": [
+      "No characteristic disease symptoms detected"
+    ],
+    "favorable_conditions": [
+      "Adequate light, moisture and nutrition",
+      "Good plant spacing and airflow"
+    ],
+    "precautions": [
+      "Scout plants regularly",
+      "Avoid excessive leaf wetness",
+      "Maintain balanced fertilization"
+    ],
+    "management": [
+      "No disease treatment is indicated from this classification alone",
+      "Continue normal crop care"
+    ],
+    "prevention": [
+      "Use healthy transplants",
+      "Rotate crops where appropriate",
+      "Maintain field sanitation"
+    ]
+  },
+  "Potato___Early_blight": {
+    "disease": "Potato Early Blight",
+    "crop": "Potato",
+    "cause": "Fungal disease caused mainly by Alternaria solani.",
+    "symptoms": [
+      "Dark brown leaf spots with concentric rings",
+      "Older leaves are often affected first",
+      "Severe disease can cause premature defoliation"
+    ],
+    "favorable_conditions": [
+      "Warm temperatures",
+      "Alternating wet and dry periods or leaf wetness",
+      "Plant stress and nutrient imbalance can increase severity"
+    ],
+    "precautions": [
+      "Maintain adequate plant nutrition and irrigation",
+      "Remove volunteer potatoes and infected debris",
+      "Avoid unnecessary prolonged leaf wetness"
+    ],
+    "management": [
+      "Remove or manage infected plant material",
+      "Maintain crop vigor",
+      "Use locally recommended fungicide programs when needed and follow labels"
+    ],
+    "prevention": [
+      "Use healthy seed tubers",
+      "Practice crop rotation",
+      "Manage infected crop debris"
+    ]
+  },
+  "Potato___Late_blight": {
+    "disease": "Potato Late Blight",
+    "crop": "Potato",
+    "cause": "Oomycete disease caused by Phytophthora infestans.",
+    "symptoms": [
+      "Water-soaked pale to dark lesions on leaves",
+      "White sporulation may develop under humid conditions",
+      "Tubers can develop dark brown to purple-brown lesions"
+    ],
+    "favorable_conditions": [
+      "Cool to mild temperatures",
+      "High humidity",
+      "Frequent rain or prolonged leaf wetness"
+    ],
+    "precautions": [
+      "Use certified disease-free seed",
+      "Scout frequently during cool, wet weather",
+      "Avoid prolonged foliage wetness"
+    ],
+    "management": [
+      "Remove or destroy infected plant material according to local guidance",
+      "Use resistant or tolerant varieties where available",
+      "Apply locally recommended late-blight management programs when needed"
+    ],
+    "prevention": [
+      "Use healthy seed tubers",
+      "Monitor regional late-blight forecasts",
+      "Destroy volunteer potato plants and manage crop debris"
+    ]
+  },
+  "Potato___healthy": {
+    "disease": "Healthy Potato Leaf",
+    "crop": "Potato",
+    "cause": "No disease detected in the PlantVillage healthy class.",
+    "symptoms": [
+      "No characteristic disease symptoms detected"
+    ],
+    "favorable_conditions": [
+      "Adequate water and nutrition",
+      "Good crop establishment and airflow"
+    ],
+    "precautions": [
+      "Scout foliage regularly",
+      "Use healthy seed tubers",
+      "Avoid unnecessary prolonged leaf wetness"
+    ],
+    "management": [
+      "No disease treatment is indicated from this classification alone",
+      "Continue routine crop management"
+    ],
+    "prevention": [
+      "Use certified seed",
+      "Practice crop rotation",
+      "Maintain field sanitation"
+    ]
+  },
+  "Raspberry___healthy": {
+    "disease": "Healthy Raspberry Leaf",
+    "crop": "Raspberry",
+    "cause": "No disease detected in the PlantVillage healthy class.",
+    "symptoms": [
+      "No characteristic disease symptoms detected"
+    ],
+    "favorable_conditions": [
+      "Adequate light, water and nutrition",
+      "Good airflow around plants"
+    ],
+    "precautions": [
+      "Scout leaves and canes regularly",
+      "Remove visibly diseased material when found",
+      "Maintain good airflow"
+    ],
+    "management": [
+      "No disease treatment is indicated from this classification alone",
+      "Continue normal crop care"
+    ],
+    "prevention": [
+      "Use healthy planting stock",
+      "Maintain sanitation",
+      "Manage canopy density and weeds"
+    ]
+  },
+  "Soybean___healthy": {
+    "disease": "Healthy Soybean Leaf",
+    "crop": "Soybean",
+    "cause": "No disease detected in the PlantVillage healthy class.",
+    "symptoms": [
+      "No characteristic disease symptoms detected"
+    ],
+    "favorable_conditions": [
+      "Adequate moisture and nutrition",
+      "Good crop establishment"
+    ],
+    "precautions": [
+      "Scout regularly for foliar diseases and pests",
+      "Avoid excessive irrigation",
+      "Maintain balanced fertility"
+    ],
+    "management": [
+      "No disease treatment is indicated from this classification alone",
+      "Continue normal crop management"
+    ],
+    "prevention": [
+      "Use quality seed",
+      "Practice suitable crop rotation",
+      "Monitor crop health throughout the season"
+    ]
+  },
+  "Squash___Powdery_mildew": {
+    "disease": "Squash Powdery Mildew",
+    "crop": "Squash",
+    "cause": "Powdery mildew caused by fungi including Podosphaera xanthii.",
+    "symptoms": [
+      "White powdery growth on leaf surfaces",
+      "Leaves may yellow and become less productive",
+      "Severe infection can cause premature leaf decline"
+    ],
+    "favorable_conditions": [
+      "Warm conditions",
+      "High humidity",
+      "Dense foliage and shaded plant surfaces"
+    ],
+    "precautions": [
+      "Maintain adequate spacing and airflow",
+      "Avoid excessive nitrogen",
+      "Scout older and younger leaves regularly"
+    ],
+    "management": [
+      "Remove severely affected leaves where practical",
+      "Improve canopy airflow",
+      "Use locally recommended powdery-mildew treatments according to label directions"
+    ],
+    "prevention": [
+      "Choose resistant varieties where available",
+      "Maintain balanced nutrition",
+      "Avoid excessive canopy humidity"
+    ]
+  },
+  "Strawberry___Leaf_scorch": {
+    "disease": "Strawberry Leaf Scorch",
+    "crop": "Strawberry",
+    "cause": "Fungal disease caused by Diplocarpon earlianum.",
+    "symptoms": [
+      "Small dark purple to reddish spots on leaves",
+      "Spots may enlarge and develop brown centers",
+      "Severe infections can make leaves appear scorched"
+    ],
+    "favorable_conditions": [
+      "Warm and wet conditions",
+      "Frequent rainfall or prolonged leaf wetness",
+      "Dense foliage"
+    ],
+    "precautions": [
+      "Improve air circulation",
+      "Avoid prolonged overhead irrigation",
+      "Remove infected leaves and debris"
+    ],
+    "management": [
+      "Remove severely affected leaves",
+      "Maintain field sanitation",
+      "Use locally recommended fungicides when necessary and follow labels"
+    ],
+    "prevention": [
+      "Use healthy planting material",
+      "Remove infected debris",
+      "Maintain appropriate plant spacing and airflow"
+    ]
+  },
+  "Strawberry___healthy": {
+    "disease": "Healthy Strawberry Leaf",
+    "crop": "Strawberry",
+    "cause": "No disease detected in the PlantVillage healthy class.",
+    "symptoms": [
+      "No characteristic disease symptoms detected"
+    ],
+    "favorable_conditions": [
+      "Adequate light, moisture and nutrition",
+      "Good airflow"
+    ],
+    "precautions": [
+      "Scout leaves regularly",
+      "Maintain field sanitation",
+      "Avoid prolonged foliage wetness"
+    ],
+    "management": [
+      "No disease treatment is indicated from this classification alone",
+      "Continue routine crop care"
+    ],
+    "prevention": [
+      "Use healthy planting material",
+      "Remove diseased leaves when detected",
+      "Maintain appropriate spacing"
+    ]
+  },
+  "Tomato___Bacterial_spot": {
+    "disease": "Tomato Bacterial Spot",
+    "crop": "Tomato",
+    "cause": "Bacterial disease caused by Xanthomonas species, including Xanthomonas perforans and related species.",
+    "symptoms": [
+      "Small dark water-soaked leaf spots",
+      "Spots can enlarge and cause leaf yellowing or drop",
+      "Fruit can develop small raised or scabby lesions"
+    ],
+    "favorable_conditions": [
+      "Warm, humid weather",
+      "Rain or overhead irrigation",
+      "Infected seed, transplants or plant debris"
+    ],
+    "precautions": [
+      "Use clean seed and transplants",
+      "Avoid overhead irrigation where possible",
+      "Avoid handling plants when foliage is wet"
+    ],
+    "management": [
+      "Remove severely affected plant material",
+      "Maintain sanitation and crop rotation",
+      "Use locally recommended bactericide programs according to label directions"
+    ],
+    "prevention": [
+      "Use certified disease-free seed",
+      "Rotate away from susceptible crops where appropriate",
+      "Sanitize tools and equipment"
+    ]
+  },
+  "Tomato___Early_blight": {
+    "disease": "Tomato Early Blight",
+    "crop": "Tomato",
+    "cause": "Fungal disease commonly caused by Alternaria species, especially Alternaria solani.",
+    "symptoms": [
+      "Dark brown spots with concentric rings",
+      "Lower leaves are commonly affected first",
+      "Severe infection can cause yellowing and premature leaf drop"
+    ],
+    "favorable_conditions": [
+      "Warm temperatures",
+      "High humidity and leaf wetness",
+      "Plant stress and infected crop debris"
+    ],
+    "precautions": [
+      "Avoid prolonged leaf wetness",
+      "Maintain plant spacing and airflow",
+      "Remove infected debris"
+    ],
+    "management": [
+      "Remove severely infected leaves",
+      "Maintain field sanitation and plant vigor",
+      "Use locally recommended fungicides when necessary and follow labels"
+    ],
+    "prevention": [
+      "Use healthy planting material",
+      "Practice crop rotation",
+      "Remove infected plant debris"
+    ]
+  },
+  "Tomato___Late_blight": {
+    "disease": "Tomato Late Blight",
+    "crop": "Tomato",
+    "cause": "Oomycete disease caused by Phytophthora infestans.",
+    "symptoms": [
+      "Water-soaked pale to dark lesions",
+      "Rapidly expanding brown or black leaf lesions under favorable conditions",
+      "Fruit may develop firm brown lesions"
+    ],
+    "favorable_conditions": [
+      "Cool to mild temperatures",
+      "High humidity",
+      "Frequent rain and prolonged leaf wetness"
+    ],
+    "precautions": [
+      "Scout frequently during cool wet periods",
+      "Avoid overhead irrigation",
+      "Remove infected plant material promptly"
+    ],
+    "management": [
+      "Remove and dispose of infected plants/material according to local guidance",
+      "Use resistant varieties where available",
+      "Follow locally recommended late-blight management programs"
+    ],
+    "prevention": [
+      "Use healthy transplants",
+      "Monitor local disease forecasts",
+      "Manage volunteer tomato and potato plants"
+    ]
+  },
+  "Tomato___Leaf_Mold": {
+    "disease": "Tomato Leaf Mold",
+    "crop": "Tomato",
+    "cause": "Fungal disease caused by Passalora fulva, historically called Fulvia fulva.",
+    "symptoms": [
+      "Pale yellow spots on upper leaf surfaces",
+      "Olive-green to brown velvety growth on leaf undersides",
+      "Severe infection can cause leaf death and reduced yield"
+    ],
+    "favorable_conditions": [
+      "High humidity",
+      "Poor air circulation",
+      "Leaf wetness and dense foliage"
+    ],
+    "precautions": [
+      "Improve greenhouse or field ventilation",
+      "Avoid prolonged leaf wetness",
+      "Maintain suitable plant spacing"
+    ],
+    "management": [
+      "Remove severely infected leaves",
+      "Improve humidity and airflow management",
+      "Use locally recommended fungicides where necessary"
+    ],
+    "prevention": [
+      "Use resistant varieties where available",
+      "Maintain good ventilation",
+      "Use clean seed and transplants"
+    ]
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "disease": "Tomato Septoria Leaf Spot",
+    "crop": "Tomato",
+    "cause": "Fungal disease caused by Septoria lycopersici.",
+    "symptoms": [
+      "Small circular leaf spots with dark margins",
+      "Spots may contain tiny dark fruiting bodies",
+      "Lower leaves are often affected first and may drop prematurely"
+    ],
+    "favorable_conditions": [
+      "Warm, humid conditions",
+      "Frequent rain or overhead irrigation",
+      "Infected plant debris"
+    ],
+    "precautions": [
+      "Avoid overhead irrigation",
+      "Remove infected leaves and debris",
+      "Maintain plant spacing and airflow"
+    ],
+    "management": [
+      "Remove affected lower leaves",
+      "Maintain field sanitation",
+      "Use locally recommended fungicide programs when needed"
+    ],
+    "prevention": [
+      "Rotate crops where appropriate",
+      "Use healthy transplants",
+      "Remove diseased plant debris"
+    ]
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "disease": "Tomato Two-Spotted Spider Mite Infestation",
+    "crop": "Tomato",
+    "cause": "Pest infestation caused by two-spotted spider mites, Tetranychus urticae.",
+    "symptoms": [
+      "Fine stippling or pale speckling on leaves",
+      "Leaves may become yellow, bronze or dry",
+      "Fine webbing can appear during heavy infestations"
+    ],
+    "favorable_conditions": [
+      "Hot and dry conditions",
+      "Dusty plant environments",
+      "Broad-spectrum insecticide use can sometimes disrupt natural mite predators"
+    ],
+    "precautions": [
+      "Scout leaf undersides regularly",
+      "Maintain adequate plant moisture and reduce dust stress",
+      "Preserve beneficial predatory mites and insects where possible"
+    ],
+    "management": [
+      "Use integrated pest management rather than unnecessary broad-spectrum sprays",
+      "Use water or approved miticidal products as locally recommended",
+      "Remove heavily infested material when practical"
+    ],
+    "prevention": [
+      "Monitor early for mites",
+      "Encourage natural enemies",
+      "Avoid unnecessary pesticide applications that disrupt biological control"
+    ]
+  },
+  "Tomato___Target_Spot": {
+    "disease": "Tomato Target Spot",
+    "crop": "Tomato",
+    "cause": "Fungal disease caused by Corynespora cassiicola.",
+    "symptoms": [
+      "Brown circular lesions with target-like concentric rings",
+      "Lesions can occur on leaves, stems and fruit",
+      "Severe infection can cause defoliation"
+    ],
+    "favorable_conditions": [
+      "Warm and humid conditions",
+      "Extended leaf wetness",
+      "Dense foliage"
+    ],
+    "precautions": [
+      "Maintain canopy airflow",
+      "Avoid prolonged leaf wetness",
+      "Remove infected debris"
+    ],
+    "management": [
+      "Remove severely affected leaves and debris",
+      "Maintain sanitation",
+      "Use locally recommended fungicides when warranted"
+    ],
+    "prevention": [
+      "Use healthy planting material",
+      "Maintain good plant spacing and airflow",
+      "Rotate crops where appropriate"
+    ]
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "disease": "Tomato Yellow Leaf Curl Virus",
+    "crop": "Tomato",
+    "cause": "Viral disease caused by Tomato yellow leaf curl virus and related begomoviruses; transmitted mainly by whiteflies.",
+    "symptoms": [
+      "Upward curling of leaves",
+      "Yellowing of leaf margins or young leaves",
+      "Stunted growth and reduced fruit set"
+    ],
+    "favorable_conditions": [
+      "Presence of infected plants",
+      "High whitefly populations",
+      "Warm conditions favorable to vector activity"
+    ],
+    "precautions": [
+      "Use virus-free transplants",
+      "Monitor and manage whitefly vectors",
+      "Remove infected plants where recommended"
+    ],
+    "management": [
+      "There is no direct cure for an infected plant",
+      "Control whitefly vectors using integrated pest-management practices",
+      "Remove severely infected plants according to local guidance"
+    ],
+    "prevention": [
+      "Use resistant/tolerant varieties where available",
+      "Use clean transplants",
+      "Control weeds and volunteer plants that can host the virus or vector"
+    ]
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "disease": "Tomato Mosaic Virus",
+    "crop": "Tomato",
+    "cause": "Viral disease caused by Tomato mosaic virus (ToMV).",
+    "symptoms": [
+      "Mottled light and dark green leaf pattern",
+      "Leaf distortion or reduced leaf growth",
+      "Plants may show stunting and reduced fruit quality"
+    ],
+    "favorable_conditions": [
+      "Infected seed or transplants",
+      "Mechanical contact between plants, tools or hands",
+      "Contaminated plant debris or equipment"
+    ],
+    "precautions": [
+      "Use certified virus-free seed and transplants",
+      "Wash hands and sanitize tools",
+      "Avoid handling plants when possible after touching infected material"
+    ],
+    "management": [
+      "There is no curative treatment for an infected plant",
+      "Remove infected plants where appropriate",
+      "Clean tools, stakes and greenhouse surfaces"
+    ],
+    "prevention": [
+      "Use resistant varieties where available",
+      "Use clean seed and transplants",
+      "Maintain strict sanitation"
+    ]
+  },
+  "Tomato___healthy": {
+    "disease": "Healthy Tomato Leaf",
+    "crop": "Tomato",
+    "cause": "No disease detected in the PlantVillage healthy class.",
+    "symptoms": [
+      "No characteristic disease symptoms detected"
+    ],
+    "favorable_conditions": [
+      "Adequate light, water and nutrition",
+      "Good airflow and crop hygiene"
+    ],
+    "precautions": [
+      "Scout leaves regularly",
+      "Maintain balanced irrigation and nutrition",
+      "Avoid unnecessary leaf wetness"
+    ],
+    "management": [
+      "No disease treatment is indicated from this classification alone",
+      "Continue normal crop management"
+    ],
+    "prevention": [
+      "Use healthy seed and transplants",
+      "Maintain field sanitation",
+      "Monitor regularly for diseases and pests"
+    ]
+  }
+}
