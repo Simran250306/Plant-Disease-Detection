@@ -15,11 +15,7 @@ pip-wheel-metadata/
 htmlcov/
 coverage.xml
 
-# Model and generated ML artifacts
-krishisaarthi-backend/*.keras
-krishisaarthi-backend/*.h5
-krishisaarthi-backend/checkpoints/
-krishisaarthi-backend/logs/
+
 
 # Local environment and secrets
 .env
